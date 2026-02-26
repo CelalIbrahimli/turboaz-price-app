@@ -127,7 +127,6 @@ meta_ridge.pkl # Stacking model
 ## ▶️ Run Locally
 
 ### 1️⃣ Create environment
-```bash
 python -m venv .venv
 source .venv/bin/activate
 
