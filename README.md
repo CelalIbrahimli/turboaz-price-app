@@ -1,7 +1,7 @@
 # 🚗 Turbo.az Price Estimator (Multimodal)  
-### CatBoost + SBERT + Stacking
+### CatBoost + SBERT + Stacking.
 
-🔗 **Live demo (Hugging Face Space):**  
+🔗 **Live demo(Hugging Face Space):**  
 👉 https://huggingface.co/spaces/celalibr/turboaz-price-app  
 
 A production-ready car price prediction system inspired by Turbo.az-style marketplace listings.  
